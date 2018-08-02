@@ -13,7 +13,8 @@ Demonstrate understanding of Factory Method Design Pattern by creating a "Docume
 4. Concrete Creator - "Resume" 
 
 ## Visuals
-![ScreenShot of Program](http)
+![ScreenShot of Program](https://github.com/cascadianrebel/Lab42_DesignPatterns/blob/master/Lab42_DesignPatterns/consolescreenshot.PNG)
+![Capture of Visual Studio](https://github.com/cascadianrebel/Lab42_DesignPatterns/blob/master/Lab42_DesignPatterns/VisualStudioCapture.PNG)
 
 ## Author
 Anthony Green
