@@ -42,6 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcreteCreator\CoverLetter.cs" />
+    <Compile Include="ConcreteCreator\Resume.cs" />
+    <Compile Include="ConcreteProducts\Education.cs" />
+    <Compile Include="ConcreteProducts\References.cs" />
+    <Compile Include="ConcreteProducts\TargetPosition.cs" />
+    <Compile Include="ConcreteProducts\WorkHistory.cs" />
+    <Compile Include="Document.cs" />
+    <Compile Include="Page.cs" />
+    <Compile Include="ConcreteProducts\PersonalStatement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
