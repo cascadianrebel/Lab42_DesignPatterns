@@ -19,4 +19,3 @@ Demonstrate understanding of Factory Method Design Pattern by creating a "Docume
 ## Author
 Anthony Green
 
-### References
